@@ -1,0 +1,19 @@
+# Compiled Object files
+*.o
+*.elf
+*.bin
+
+# Build directory
+build/
+
+# Virtual Machine Disk Images
+*.img
+*.qcow2
+*.vdi
+
+# Rust / Cargo specific (Autarky Engine)
+autarky_vm/target/
+autarky_vm/Cargo.lock
+
+# macOS specific
+.DS_Store
