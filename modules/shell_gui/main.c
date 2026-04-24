@@ -118,7 +118,7 @@ ATTR_EL0_RO static const uint8_t font8x8[ 95 ][ 8 ] = {
 ATTR_EL0_RO static const char msg_init[]   = "ai-os-desktop terminal subsystem initialized.\n";
 ATTR_EL0_RO static const char msg_fb[]     = "Framebuffer rendering active.\n";
 ATTR_EL0_RO static const char msg_wait[]   = "IPC Mailbox Online. Ready for commands.\n\n";
-ATTR_EL0_RO static const char msg_prompt[] = "kevindavies@ai-os / % ";
+ATTR_EL0_RO static const char msg_prompt[] = "ai-os / % ";
 
 ATTR_EL0_RO static const char cmd_help[]  = "help";
 ATTR_EL0_RO static const char cmd_clear[] = "clear";
